@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **first-year B.Tech student** studying **Art
 - 💻 I’m currently learning **Python**,**C** and exploring the basics of **Data Structures** and **Algorithms**.
 - 🌱 I’m excited to dive into **Machine Learning** and **Data Science** in the coming months.
 - 🤔 I’m looking forward to improving my coding skills and working on small projects.
-- 📫 How to reach me: bhvya.mld@gmail.com or connect with me on www.linkedin.com/in/bhvya-vaish
+- 📫 How to reach me: bhvya.vaish@gmail.com or connect with me on www.linkedin.com/in/bhvya-vaish
 
 ## ⚡ Tech Stack (Learning)
 - **Languages**: Python, C (just starting!)
